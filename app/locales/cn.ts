@@ -8,28 +8,28 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized: isApp
-      ? `EasyAI：你的免费AI百宝箱，解锁无限可能！ 🧰✨
+      ? `AIBoB：你的免费AI百宝箱，解锁无限可能！ 🧰✨
 
-想体验各种强大的AI模型，却不想花冤枉钱？ 💸  EasyAI，满足你对AI的所有期待！🤩
-
-我们精选**20+**领先AI模型，覆盖多种应用场景，更有海量**免费模型**等你来探索！🎉 是的，你没听错，顶级AI对话，**完全免费**！ 🆓
-
-EasyAI，功能远超**99**%市面AI站点，为你带来前所未有的AI互动体验。🤯 无论是头脑风暴、内容创作，还是学习助手，EasyAI都能成为你的得力帮手。✍️📚
-
-立即加入EasyAI，开启你的免费AI探索之旅！🚀
-
-👉 [输入密码来使用高级模型](/#/auth) | 💰 [充值高级模型使用权](https://afdian.com/a/suaolin) | ❓ [需要帮助](https://help.easyai.click/) | 📁 [文件传输](https://file.easyai.click/)`
-      : `EasyAI：你的免费AI百宝箱，解锁无限可能！ 🧰✨
-
-想体验各种强大的AI模型，却不想花冤枉钱？ 💸  EasyAI，满足你对AI的所有期待！🤩
+想体验各种强大的AI模型，却不想花冤枉钱？ 💸  AIBoB，满足你对AI的所有期待！🤩
 
 我们精选**20+**领先AI模型，覆盖多种应用场景，更有海量**免费模型**等你来探索！🎉 是的，你没听错，顶级AI对话，**完全免费**！ 🆓
 
-EasyAI，功能远超**99**%市面AI站点，为你带来前所未有的AI互动体验。🤯 无论是头脑风暴、内容创作，还是学习助手，EasyAI都能成为你的得力帮手。✍️📚
+AIBoB，功能远超**99**%市面AI站点，为你带来前所未有的AI互动体验。🤯 无论是头脑风暴、内容创作，还是学习助手，AIBoB都能成为你的得力帮手。✍️📚
 
-立即加入EasyAI，开启你的免费AI探索之旅！🚀
+立即加入AIBoB，开启你的免费AI探索之旅！🚀
 
-👉 [输入密码来使用高级模型](/#/auth) | 💰 [充值高级模型使用权](https://afdian.com/a/suaolin) | ❓ [需要帮助](https://help.easyai.click/) | 📁 [文件传输](https://file.easyai.click/)`,
+👉 [输入密码来使用高级模型](/#/auth) | 💰 [充值高级模型使用权](https://afdian.com/a/suaolin) | ❓ [需要帮助](https://help.AIBoB.click/) | 📁 [文件传输](https://file.AIBoB.click/)`
+      : `AIBoB：你的免费AI百宝箱，解锁无限可能！ 🧰✨
+
+想体验各种强大的AI模型，却不想花冤枉钱？ 💸  AIBoB，满足你对AI的所有期待！🤩
+
+我们精选**20+**领先AI模型，覆盖多种应用场景，更有海量**免费模型**等你来探索！🎉 是的，你没听错，顶级AI对话，**完全免费**！ 🆓
+
+AIBoB，功能远超**99**%市面AI站点，为你带来前所未有的AI互动体验。🤯 无论是头脑风暴、内容创作，还是学习助手，AIBoB都能成为你的得力帮手。✍️📚
+
+立即加入AIBoB，开启你的免费AI探索之旅！🚀
+
+👉 [输入密码来使用高级模型](/#/auth) | 💰 [充值高级模型使用权](https://afdian.com/a/suaolin) | ❓ [需要帮助](https://help.AIBoB.click/) | 📁 [文件传输](https://file.AIBoB.click/)`,
   },
   Auth: {
     Return: "返回",
@@ -41,7 +41,7 @@ EasyAI，功能远超**99**%市面AI站点，为你带来前所未有的AI互动
     Later: "稍后再说",
     SaasTips: "配置太麻烦，想要立即使用",
     TopTips:
-      "🥳 EasyAI 首发优惠，低价解锁众多大模型",
+      "🥳 AIBoB 首发优惠，低价解锁众多大模型",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
@@ -325,10 +325,10 @@ EasyAI，功能远超**99**%市面AI站点，为你带来前所未有的AI互动
 
     Access: {
       SaasStart: {
-        Title: "使用 EasyAI 高级版",
+        Title: "使用 AIBoB 高级版",
         Label: "合理的使用方案",
         SubTitle:
-          "由 EasyAI 官方维护, 稳定且能用到市面上的一切高级模型",
+          "由 AIBoB 官方维护, 稳定且能用到市面上的一切高级模型",
         ChatNow: "立刻购买",
       },
       AccessCode: {
@@ -612,8 +612,8 @@ EasyAI，功能远超**99**%市面AI站点，为你带来前所未有的AI互动
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: `EasyAI - 您的更简单的ai使用方式
-📁 [文件传输](https://file.easyai.click/) | ❓ [需要帮助](https://help.easyai.click/)`,
+    BotHello: `AIBoB - 您的更简单的ai使用方式
+📁 [文件传输](https://file.AIBoB.click/) | ❓ [需要帮助](https://help.AIBoB.click/)`,
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
