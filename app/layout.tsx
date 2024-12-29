@@ -10,10 +10,10 @@ import { GoogleTagManager, GoogleAnalytics } from "@next/third-parties/google";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "EasyAI",
+  title: "AIBoB",
   description: "文件 / 编程 / 角色扮演 / 最简单的AI使用方式",
   appleWebApp: {
-    title: "EasyAI",
+    title: "AIBoB",
     statusBarStyle: "default",
   },
 };
