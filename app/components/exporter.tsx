@@ -541,9 +541,9 @@ export function ImagePreviewer(props: {
           </div>
 
           <div>
-            <div className={styles["main-title"]}>EasyAI</div>
+            <div className={styles["main-title"]}>AIBoB - AIGC引领者</div>
             <div className={styles["sub-title"]}>
-              最简单的AI使用方式 - easyai.click
+              最简单的AI使用方式 - aibob.click
             </div>
             <div className={styles["icons"]}>
               <ExportAvatar avatar={config.avatar} />
